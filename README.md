@@ -1,2 +1,2 @@
-# -rvores-Bin-rias-Python
+# Árvores-Binárias-Python
 Exercícios de Árvores Binárias em Python
